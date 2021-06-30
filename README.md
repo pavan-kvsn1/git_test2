@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/pavan-kvsn1/git_test2/blob/main/images2/53.jpg)
 
 <!-- Add your details -->
 
