@@ -34,19 +34,28 @@ I am __Pavan Theja__, a seasoned data scientist with ~6 years of progressive exp
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
 SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+June-2018 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
+##### Company ABC
+ANALYST<br>
+June-2016 to Present: 2 years
+
+ROLE: Data Scientist
+UNIT: ABC's India unit 
+
+Working on various use cases in Machine learning
+
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
+##### SRM University
 Engineering Graduate 2010-14, First Division
 
 <!-- EDUCATION Section Ends -->
