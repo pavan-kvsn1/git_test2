@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/pavan-kvsn1/git_test2/blob/main/images2/5.jpg)
+![alt text](https://github.com/pavan-kvsn1/git_test2/blob/main/images2/53.jpg)
 
 <!-- Add your details -->
 
